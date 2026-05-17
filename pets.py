@@ -1,2 +1,2 @@
 def say_pet():
-    return "Cat"
+    return "Dog"
